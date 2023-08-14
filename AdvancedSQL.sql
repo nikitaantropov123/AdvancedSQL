@@ -1,6 +1,4 @@
 
---/* Project#2 */--
-
 use AdventureWorks2019
 
 --1--
